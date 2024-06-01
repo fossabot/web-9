@@ -1,4 +1,6 @@
 # Creating and updating the Kuasar docs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkuasar-io%2Fweb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkuasar-io%2Fweb?ref=badge_shield)
+
 
 Welcome to the GitHub repository for Kuasar's public website. The docs are
 hosted at https://kuasar.io.
@@ -96,3 +98,6 @@ Useful Hugo docs:
 - [Hugo site directory structure](https://gohugo.io/getting-started/directory-structure/)
 - [hugo server reference](https://gohugo.io/commands/hugo_server/)
 - [hugo new reference](https://gohugo.io/commands/hugo_new/)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkuasar-io%2Fweb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkuasar-io%2Fweb?ref=badge_large)
